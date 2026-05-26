@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BBC News Reader</string>
+    <string name="app_title_version">BBC News Reader - v1.0</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favourites">Favourites</string>
+    <string name="menu_about">About</string>
+    <string name="menu_exit">Exit</string>
+    <string name="menu_help">Help</string>
+    <string name="load_news">Load News</string>
+    <string name="search_hint">Search headlines</string>
+    <string name="save_favourite">Save Favourite</string>
+    <string name="open_article">Open Article</string>
+    <string name="delete_selected">Delete Selected</string>
+    <string name="save_name">Save Name</string>
+    <string name="name_hint">Your name</string>
+    <string name="no_articles">No articles loaded yet.</string>
+    <string name="no_favourites">No favourites saved yet.</string>
+    <string name="help_main">Tap Load News to download BBC headlines. Use the search box to filter results. Tap a headline to view details.</string>
+    <string name="help_details">Review the article details. You can save the article to favourites or open the link in the Android browser.</string>
+    <string name="help_favourites">Tap a saved article to view details. Select an article and tap Delete Selected to remove it from favourites.</string>
+    <string name="help_about">This page shows app information and saved preferences.</string>
+</resources>

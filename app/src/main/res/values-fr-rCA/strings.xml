@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lecteur BBC Nouvelles</string>
+    <string name="app_title_version">Lecteur BBC Nouvelles - v1.0</string>
+    <string name="menu_home">Accueil</string>
+    <string name="menu_favourites">Favoris</string>
+    <string name="menu_about">À propos</string>
+    <string name="menu_exit">Quitter</string>
+    <string name="menu_help">Aide</string>
+    <string name="load_news">Charger les nouvelles</string>
+    <string name="search_hint">Rechercher des titres</string>
+    <string name="save_favourite">Enregistrer comme favori</string>
+    <string name="open_article">Ouvrir l\'article</string>
+    <string name="delete_selected">Supprimer la sélection</string>
+    <string name="save_name">Enregistrer le nom</string>
+    <string name="name_hint">Votre nom</string>
+    <string name="no_articles">Aucun article chargé.</string>
+    <string name="no_favourites">Aucun favori enregistré.</string>
+    <string name="help_main">Touchez Charger les nouvelles pour télécharger les titres BBC. Utilisez la zone de recherche pour filtrer les résultats. Touchez un titre pour voir les détails.</string>
+    <string name="help_details">Consultez les détails de l\'article. Vous pouvez enregistrer l\'article ou ouvrir le lien dans le navigateur Android.</string>
+    <string name="help_favourites">Touchez un article enregistré pour voir les détails. Sélectionnez un article et touchez Supprimer la sélection pour l\'effacer.</string>
+    <string name="help_about">Cette page affiche les renseignements de l\'application et les préférences enregistrées.</string>
+</resources>
